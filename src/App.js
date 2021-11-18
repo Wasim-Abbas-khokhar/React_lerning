@@ -1,6 +1,8 @@
 import Expenses from './components/Expenses';
 
 function App() {
+
+  
   const expenses = [
     {
       id: 'e1',
